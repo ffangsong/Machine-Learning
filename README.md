@@ -7,5 +7,5 @@ This repositoty contains my personal notes,  mathematical derivation and summari
 * [K-mean Cluster](https://github.com/ffangsong/Machine-Learning-Notes/blob/master/Unsupervised_Learning_k-mean_clusters%2C%20Mixture_of_Gaussian%2CFactor_Analysis.pdf)
 * [Factor Analysis](https://github.com/ffangsong/Machine-Learning-Notes/blob/master/Unsupervised_Learning_k-mean_clusters%2C%20Mixture_of_Gaussian%2CFactor_Analysis.pdf)
 * [Mixture of Gaussians](https://github.com/ffangsong/Machine-Learning-Notes/blob/master/Unsupervised_Learning_k-mean_clusters%2C%20Mixture_of_Gaussian%2CFactor_Analysis.pdf)
-[Regression Splines and Smoothing Splines](https://github.com/ffangsong/Machine-Learning-Notes/blob/master/Regression_Spline_and_Smoothing_Spline.pdf)
+*[Regression Splines and Smoothing Splines](https://github.com/ffangsong/Machine-Learning-Notes/blob/master/Regression_Spline_and_Smoothing_Spline.pdf)
 * [Resampling method, including k-fold cross validation and Bootstrap](https://github.com/ffangsong/Machine-Learning-Notes/blob/master/Resampling_Method.pdf)
