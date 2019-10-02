@@ -1,6 +1,6 @@
 # Machine Learning Notes
 This repositoty contains my personal notes,  mathematical derivation and summaries on machine learning algorithms, including:
-* [Regression and Generalized Linear Model](https://github.com/ffangsong/Machine-Learning-Notes/blob/master/Regression%20and%20Generalized%20Linear%20Model.pdf)
+* [Regression and Generalized Linear Model](https://github.com/ffangsong/Machine-Learning-Notes/blob/master/Regression_And_Generalized_Linear_Model.pdf)
 * [Regression Splines and Smoothing Splines](https://github.com/ffangsong/Machine-Learning-Notes/blob/master/Regression%20Spline%2C%20Smoothing%20Spline.pdf)
 * [Suppport Vector Machine](https://github.com/ffangsong/Machine-Learning-Notes/blob/master/Support%20Vector%20Machine.pdf)
 * [Gaussian Discriminant Analysis and Naive Bayes](https://github.com/ffangsong/Machine-Learning-Notes/blob/master/Generative%20Learning%20Algorithm%20GDA%20and%20Naive%20Bayes.pdf)
