@@ -1,4 +1,4 @@
-# Machine Learning Notes
+# Statistical Machine Learning Notes
 This repositoty contains my personal notes,  mathematical derivation and summaries on machine learning algorithms, including:
 * [Regression and Generalized Linear Model](https://github.com/ffangsong/Machine-Learning-Notes/blob/master/Regression_And_Generalized_Linear_Model.pdf)
 * [Suppport Vector Machine](https://github.com/ffangsong/Machine-Learning-Notes/blob/master/Support_Vector_Machine.pdf)
